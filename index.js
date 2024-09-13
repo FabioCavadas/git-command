@@ -6,6 +6,10 @@ app.get('/', (req, res) =>{
     console.log('New feature')
 })
 
+app.get('/feature3', (req, res) =>{
+    console.log('New feature3')
+})
+
 app.listen(port, () => {
     console.log('start listening ${port}');
 })
