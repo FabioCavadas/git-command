@@ -1,0 +1,14 @@
+{
+  "name": "gitcommand",
+  "version": "1.0.0",
+  "description": "simple server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fábio Cavadas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
